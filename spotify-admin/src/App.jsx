@@ -9,6 +9,7 @@ import ListAlbum from './pages/ListAlbum/ListAlbum';
 import Sidebar from './components/Sidebar/Sidebar';
 import Navbar from './components/Navbar/Navbar';
 
+export const url='https://sppotiifyfull-backend.onrender.com';
 
 const App = () => {
   return (
